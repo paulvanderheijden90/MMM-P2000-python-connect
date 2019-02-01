@@ -13,7 +13,7 @@ Put those 2 in the module map and add the module to the config file.
 Youll need to put the P2000.py in the src map.
 Then the magic mirror will start the Python project.
 
-**** Notice ****
-at this point the Buffer fills and the modele freezes.
-Working on that.
+
+Update.
+The function was called 100 times so it was blocking. Im Now add a new node helper will fix this problem.
 
